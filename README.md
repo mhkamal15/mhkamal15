@@ -1,5 +1,4 @@
 <h2> Hi, I'm Malek Kamal! <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h2>
-<img align='right' src="https://media.giphy.com/media/ieyl9zmCjO4b4t6qoY/giphy.gif" width="230">
 <p><em>Student and Computer Enthusiast</a></em></p>
 
 [![Twitter: realqassam](https://img.shields.io/twitter/follow/realqassam?style=social)](https://twitter.com/realqassam)
