@@ -15,7 +15,6 @@ const malek = {
   tools: [React, Redux, Node, Bootstrap, Bulma, Jest, Docker],
   architecture: ["microservices", "event-driven", "design system pattern"],
   techCommunities: {
-                        coorganizer: "Developers Egypt",
                         communication specialist: "Egypt Game Devs",
                       },
  challenge: "I am doing the #100DaysOfCode challenge focused on C++ and typescript"
