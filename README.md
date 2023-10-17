@@ -1,16 +1,15 @@
 <h2> Hi, I'm Malek Kamal! <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h2>
 <img align='right' src="https://media.giphy.com/media/ieyl9zmCjO4b4t6qoY/giphy.gif" width="230">
-<p><em>Student and Computer Enthusiast</a><img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="30">
-</em></p>
+<p><em>Student and Computer Enthusiast</a></em></p>
 
-[![Twitter: ThaiiBraga](https://img.shields.io/twitter/follow/realqassam?style=social)](https://twitter.com/realqassam)
-[![GitHub Thaiane](https://img.shields.io/github/followers/thaiane?label=follow&style=social)](https://github.com/mhkamal15)
+[![Twitter: realqassam](https://img.shields.io/twitter/follow/realqassam?style=social)](https://twitter.com/realqassam)
+[![GitHub mhkamal15](https://img.shields.io/github/followers/mhkamal15?label=follow&style=social)](https://github.com/mhkamal15)
 
 
 ### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...  
 
 ```javascript
-const thai = {
+const malek = {
   pronouns: "he" | "him",
   code: [Javascript, Typescript, HTML, CSS, Ruby, PHP, Python, Java],
   tools: [React, Redux, Node, Bootstrap, Bulma, Jest, Docker],
