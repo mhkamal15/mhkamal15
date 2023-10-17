@@ -1,7 +1,6 @@
 <h2> Hi, I'm Malek Kamal! <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h2>
 <p><em>Student and Computer Enthusiast</a></em></p>
 
-![visitors](https://visitor-badge.laobi.icu/badge?page_id=mhkamal15.mhkamal15)
 [![Open Source Love](https://badges.frapsoft.com/os/v1/open-source.svg?v=102)](https://github.com/ellerbrock/open-source-badge/)
 [![Twitter: realqassam](https://img.shields.io/twitter/follow/realqassam?style=social)](https://twitter.com/realqassam)
 [![GitHub mhkamal15](https://img.shields.io/github/followers/mhkamal15?label=follow&style=social)](https://github.com/mhkamal15)
