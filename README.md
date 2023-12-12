@@ -17,7 +17,7 @@ const malek = {
   techCommunities: {
                         communication specialist: "Egypt Game Devs",
                       },
- challenge: "I am doing the #100DaysOfCode challenge focused on C++ and typescript"
+ challenge: "I am doing the #100DaysOfCode challenge focused on C# and typescript"
 }
 ```
 
