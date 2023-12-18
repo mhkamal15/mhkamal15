@@ -10,7 +10,7 @@
 
 ```javascript
 const malek = {
-  pronouns: "he" l "him",
+  pronouns: "he" / "him",
   code: [Javascript, Typescript, HTML, CSS, Ruby, PHP, Python, Java],
   tools: [React, Redux, Node, Bootstrap, Bulma, Jest, Docker],
   architecture: ["microservices", "event-driven", "design system pattern"],
