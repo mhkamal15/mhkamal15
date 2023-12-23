@@ -1,5 +1,5 @@
 <h2> Hi, I'm Malek Kamal!</h2>
-<p><em>Student, Replit Bounty Hunter, and Computer Enthusiast</a></em></p>
+<p><em>Student, Freelancer, and Computer Enthusiast</a></em></p>
 
 [![Open Source Love](https://badges.frapsoft.com/os/v1/open-source.svg?v=102)](https://github.com/ellerbrock/open-source-badge/)
 [![Twitter: realqassam](https://img.shields.io/twitter/follow/realqassam?style=social)](https://twitter.com/realqassam)
